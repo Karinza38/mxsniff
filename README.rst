@@ -1,4 +1,4 @@
-MX Sniff
+ MX Sniff
 ========
 
 |travis| |coveralls|
